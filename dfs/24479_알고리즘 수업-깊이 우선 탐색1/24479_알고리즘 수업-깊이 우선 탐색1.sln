@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24479_알고리즘 수업-깊이 우선 탐색1", "24479_알고리즘 수업-깊이 우선 탐색1\24479_알고리즘 수업-깊이 우선 탐색1.vcxproj", "{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}.Debug|x64.ActiveCfg = Debug|x64
+		{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}.Debug|x64.Build.0 = Debug|x64
+		{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}.Debug|x86.Build.0 = Debug|Win32
+		{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}.Release|x64.ActiveCfg = Release|x64
+		{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}.Release|x64.Build.0 = Release|x64
+		{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}.Release|x86.ActiveCfg = Release|Win32
+		{8E8590C9-14C2-4F9D-BE0F-8CFFC32D929E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D541E6-DCE9-4DF4-818F-90C147AF4A65}
+	EndGlobalSection
+EndGlobal
